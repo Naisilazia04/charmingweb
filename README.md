@@ -18,6 +18,9 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 • Sederhana 
 • Menakjubkan
 • Warna : Ungu purple
+# inspirasi desain
+![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/1af6d539-efc8-47dc-aada-1d206abcdb84)
+
 
 
    
