@@ -7,9 +7,7 @@ aplikasi walpaper adalah satu jenis aplikasi yang diminati oleh pengguna ponsel 
 Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding meliputi :
 • Merk : Charming
 • Tagline : Ubah layar anda dengan keindahan setiap hari
-• Campaign : aplikasi yang membuat penggunanya menampilkan kreativitas dengan sentuhan layarnya
-• Target user :
-• Usia 7+
+• Campaign : aplikasi yang membuat penggunanya menampilkan kreativitas dengan sentuhan layarnya• Usia 7+
 • seorang yang ingin meningkatkan estetika lewat sentuhan layarnya
 • seorang yang butuh inspirasi dan motivasi 
 • seorang yang ingin menampilkan hal baru dalam sentuhan layar
