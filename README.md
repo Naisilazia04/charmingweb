@@ -1,4 +1,4 @@
-# Membuat aplikasi web walpaper dengan figma,java scrift,vs code,mySQL
+# Membuat aplikasi web walpaper dengan figma,java swing,mySQL
 Naisila zia ulhaq 24 oktober 2023
 
 # Latar belakang
