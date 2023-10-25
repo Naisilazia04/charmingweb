@@ -55,6 +55,8 @@ Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya 
 
 <img width="367" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/04161e18-96fe-45e9-bca9-1fe2c5cea004">
 
+# Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
+
 
 
 
