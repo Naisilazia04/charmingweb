@@ -25,7 +25,7 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 | sebagai | saya ingin bisa | sehingga | prioritas |
 |-----|-----|-----|--------|
-|pengguna|dapat mencari wallpaper berdasarkan kategori atau tema tertentu|bisa dengan mudah menemukan gambar latar belakang yang sesuai dengan selera saya| |⭐⭐⭐⭐⭐|
+|pengguna|dapat mencari wallpaper berdasarkan kategori atau tema tertentu|bisa dengan mudah menemukan gambar latar belakang yang sesuai dengan selera saya|⭐⭐⭐⭐⭐|
 |pengguna|mendapatkan pemberitahuan ketika walpaper baru di tambahkan ke aplikasi|saya tidak melewatkan walpaper yang menarik |⭐⭐⭐|
 |pengguna|ingin mendapatkan rekomendasi walpaper berdasarkan preeferensi|saya tidak bosan dengan  tampilan walpaper saya  |⭐⭐⭐⭐|
 |pengguna|dapat mengunduh wallpaper dengan cepat dan mudah|tidak perlu menghabiskan banyak waktu dalam proses unduh|⭐⭐⭐⭐⭐|
