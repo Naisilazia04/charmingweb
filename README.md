@@ -1,21 +1,24 @@
-# Membuat aplikasi web walpaper dengan figma,java swing,mySQL
+# Membuat aplikasi web walpaper dengan figma,netbeans,java swing,mySQL
 Naisila zia ulhaq 24 oktober 2023
 
 # Latar belakang
+wallpaper, yang juga dikenal sebagai wallpaper komputer atau desktop wallpaper, adalah gambar atau desain yang digunakan sebagai latar belakang layar pada komputer, laptop, tablet, atau ponsel. Latar belakang wallpaper ini muncul di latar belakang layar ketika kita tidak sedang menggunakan aplikasi atau tugas tertentu.
 
 # Deskripsi  
-aplikasi walpaper adalah satu jenis aplikasi yang diminati oleh pengguna ponsel pintar , mengapa aplikasi ini dibuat ? dari yang saya ketahuii dengan membuat aplikasi walpaper ini  orang sering ingin  mempersonalisasi tampilan ponsel mereka dengan gambar atau latar belakang yang sesuai dengan selera mereka.contohnya aplikasi wallpaper ini dapat menyediakan wallpaper berdasarkan berbagai tema, seperti warna,karakter film atau game populer, atau juga seni.
+aplikasi walpaper adalah satu jenis aplikasi yang diminati oleh pengguna ponsel pintar , alasan saya kenapa aplikasi ini di buat? ? dari yang saya ketahui dengan membuat aplikasi walpaper ini  orang sering ingin  mempersonalisasi tampilan ponsel mereka dengan gambar atau latar belakang yang sesuai dengan selera mereka.contohnya aplikasi wallpaper ini dapat menyediakan wallpaper berdasarkan berbagai tema, seperti warna,karakter film atau game populer, atau juga seni.
+
 # Analysis : Branding
 Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding meliputi :
 • Merk : Charming
 • Tagline : Ubah layar anda dengan keindahan setiap hari
-• Campaign : aplikasi yang membuat penggunanya menampilkan kreativitas dengan sentuhan layarnya• Usia 7+
+• Campaign : aplikasi yang membuat penggunanya menampilkan kreativitas dengan sentuhan layarnya
+• Usia 7+
 • seorang yang ingin meningkatkan estetika lewat sentuhan layarnya
 • seorang yang butuh inspirasi dan motivasi 
 • seorang yang ingin menampilkan hal baru dalam sentuhan layar
 • User experience them :
 • Mudah
-• Sederhana 
+• sederhana 
 • Menakjubkan
 • Warna : Ungu purple
 # inspirasi desain
