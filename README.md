@@ -27,10 +27,10 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 |-----|-----|-----|--------|
 |pengguna|dapat mencari wallpaper berdasarkan kategori atau tema tertentu|bisa dengan mudah menemukan gambar latar belakang yang sesuai dengan selera saya|⭐⭐⭐⭐⭐|
 |pengguna|mendapatkan pemberitahuan ketika walpaper baru di tambahkan ke aplikasi|saya tidak melewatkan walpaper yang menarik |⭐⭐⭐|
-|pengguna|ingin mendapatkan rekomendasi walpaper berdasarkan preeferensi|saya tidak bosan dengan  tampilan walpaper saya  |⭐⭐⭐⭐|
+|pengguna|ingin mendapatkan rekomendasi walpaper berdasarkan preferensi|saya tidak bosan dengan  tampilan walpaper saya  |⭐⭐⭐⭐|
 |pengguna|dapat mengunduh wallpaper dengan cepat dan mudah|tidak perlu menghabiskan banyak waktu dalam proses unduh|⭐⭐⭐⭐⭐|
 |pengguna|dapat mengatur wallpaper berdasarkan kategori musik favorit saya|saya bisa merayakan kecintaan saya pada musik melalui latar belakang walpaper|⭐⭐⭐⭐|
-|pengguna|menyinkronka koleksi berbagai walpaper saya di perangkat|sehingga saya memiliki walpaper favorit saya|⭐⭐⭐|
+|pengguna|menyinkronkan koleksi berbagai walpaper saya di perangkat|sehingga saya memiliki walpaper favorit saya|⭐⭐⭐|
 |pengguna|memiliki opsi untuk menyimpan wallpaper favorit saya dalam daftar koleksi|saya bisa mengaksesnya dengan mudah|⭐⭐⭐⭐|
 |pengguna|dapat mengatur wallpaper sebagai latar belakang ponsel saya|perangkat saya terlihat lebih menarik|⭐⭐⭐⭐⭐|
 |pengguna|dapat melihat daftar wallpaper yang sudah saya unduh sebelumnya|bisa mengakses gambar walpaper yang pernah saya sukai|⭐⭐⭐⭐|
