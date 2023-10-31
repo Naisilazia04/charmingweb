@@ -63,6 +63,7 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 
 # Analysis: Structure data
 
+
 <img width="761" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/3f0a89aa-1896-4c5e-9b15-86b2f118f075">
 
 
@@ -93,6 +94,7 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 # Design: User Experience (UX) Design
 
 <img width="367" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/04161e18-96fe-45e9-bca9-1fe2c5cea004">
+
 
 
 • pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
