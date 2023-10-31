@@ -77,8 +77,11 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 flowchart BT 
 
 
-    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
-    C <--> D[Database: PostgreSQL] 
+    B[Web Server: JavaScript - Express.js]
+    <-->
+    C[Aplikasi Web Backend: JavaScript - Express.js] 
+    C <--> 
+    D[Database: PostgreSQL] 
     
     end
     A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B
