@@ -27,13 +27,13 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 
 • User experience them :
 
-  • Mudah
+     • Mudah
   
-  • sederhana 
+     • sederhana 
   
-  • Menakjubkan
+     • Menakjubkan
   
-  • Warna : Ungu purple
+     • Warna : Ungu purple
   
 # inspirasi desain
 
