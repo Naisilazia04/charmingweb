@@ -50,14 +50,14 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 <img width="761" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/3f0a89aa-1896-4c5e-9b15-86b2f118f075">
 
 • Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
-• Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan atribut
+• Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan atribut
 
 
 # Design: Arsitektur berbasis client-server
 
 ![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/14ed94df-6384-47a6-b45a-833805f5bd12)
 
-pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
+• pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
 
 # Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini
@@ -74,11 +74,9 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 
 <img width="367" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/04161e18-96fe-45e9-bca9-1fe2c5cea004">
 
-Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
-
-Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape, Penpot, lalu yang gratis hingga berbayar seperti Figma.
-
-Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
+• pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
+• Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape, Penpot, lalu yang gratis hingga berbayar seperti Figma.
+• Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
 
 
 
