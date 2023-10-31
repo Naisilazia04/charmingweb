@@ -75,11 +75,13 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 • pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
 flowchart BT 
-  subgraph cloud
+
+
     B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
     C <--> D[Database: PostgreSQL] 
-  end
-  A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B
+    
+    end
+    A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B
 
 
 # Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini
