@@ -41,7 +41,9 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 
 # Analysis : User Story
 
-Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
+• Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat.
+
+• User story memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 | sebagai | saya ingin bisa | sehingga | prioritas |
 |-----|-----|-----|--------|
@@ -65,6 +67,7 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 
 • Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
+
 • Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan atribut
 
 
