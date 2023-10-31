@@ -51,6 +51,16 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 # Design: Arsitektur berbasis client-server
 pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
+# Deskripsikan teknologi, library, dan framewowork apa saja yang kamu gunakan dalam membangun produk ini
+Dalam pembuatan aplikasi wallpaper, menggunakan Figma, NetBeans Java Swing, dan database MySQL, 
+ Pertama, saya  merancang tampilan antarmuka pengguna (UI) aplikasi saya dengan Figma. dan desain untuk halaman unggah wallpaper, halaman utama. setelah itu menentukan tata letak, warna, dan komponen seperti tombol dan label sesuai dengan desain saya.
+ Setelah desain UI selesai, ekspor elemen UI yang kita butuhkan dalam format gambar.Lalu,
+Buat proyek baru di NetBeans dengan jenis Java Swing,.karena akan menjadi kerangka kerja pengembangan aplikasi ini.setelah itu,
+ Tambahkan komponen-komponen Swing seperti JFrame, JPanel, JLabel, dan sebagainya sesuai dengan desain Figma yang kita buat. Sesuaikan komponen-komponen tersebut agar mencocokkan desain yang telah  di  buat di figma, termasuk latar belakang, tombol, panel, dan elemen lainnya.
+ lalu memulai mengimplementasikan logika aplikasi, termasuk fitur untuk mengunggah gambar wallpaper ke aplikasi. dengan menggunakan komponen seperti JFileChooser untuk memungkinkan pengguna memilih gambar dari ponsel mereka.
+ Setelah itu mengonfigurasi koneksi ke database MySQL dalam aplikasi dengan menggunakan JDBC. Pastikan kita memiliki database MySQL yang telah dibuat sebelumnya untuk menyimpan data tentang wallpaper.
+ Saat gambar wallpaper diunggah, Lakukan pengujian menyeluruh untuk memastikan bahwa aplikasi berfungsi dengan baik. Jangan lupa untuk menguji kemampuan untuk mengunggah, menampilkan, dan mengatur wallpaper sesuai dengan kebutuhan.
+
 # Design: User Experience (UX) Design
 Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
 
