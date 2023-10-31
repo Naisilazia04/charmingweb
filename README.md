@@ -8,19 +8,33 @@ wallpaper, yang juga dikenal sebagai wallpaper komputer atau desktop wallpaper, 
 aplikasi walpaper adalah satu jenis aplikasi yang diminati oleh pengguna ponsel pintar , alasan saya kenapa aplikasi ini di buat? ? dari yang saya ketahui dengan membuat aplikasi walpaper ini  orang sering ingin  mempersonalisasi tampilan ponsel mereka dengan gambar atau latar belakang yang sesuai dengan selera mereka.contohnya aplikasi wallpaper ini dapat menyediakan wallpaper berdasarkan berbagai tema, seperti warna,karakter film atau game populer, atau juga seni.
 
 # Analysis : Branding
+
 Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding meliputi :
+
 • Merk : Charming
+
 • Tagline : Ubah layar anda dengan keindahan setiap hari
+
 • Campaign : aplikasi yang membuat penggunanya menampilkan kreativitas dengan sentuhan layarnya
+
 • Usia 7+
+
 • seorang yang ingin meningkatkan estetika lewat sentuhan layarnya
+
 • seorang yang butuh inspirasi dan motivasi 
+
 • seorang yang ingin menampilkan hal baru dalam sentuhan layar
+
 • User experience them :
-• Mudah
-• sederhana 
-• Menakjubkan
-• Warna : Ungu purple
+
+  • Mudah
+  
+  • sederhana 
+  
+  • Menakjubkan
+  
+  • Warna : Ungu purple
+  
 # inspirasi desain
 
 ![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/1af6d539-efc8-47dc-aada-1d206abcdb84)
