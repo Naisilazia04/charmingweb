@@ -53,8 +53,10 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 # Design: Arsitektur berbasis client-server
 pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
+![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/14ed94df-6384-47a6-b45a-833805f5bd12)
 
-# Deskripsikan teknologi, library, dan framewowork apa saja yang kamu gunakan dalam membangun produk ini
+
+# Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini
 Dalam pembuatan aplikasi wallpaper, menggunakan Figma, NetBeans Java Swing, dan database MySQL, 
  Pertama, saya  merancang tampilan antarmuka pengguna (UI) aplikasi saya dengan Figma. dan desain untuk halaman unggah wallpaper, halaman utama. setelah itu menentukan tata letak, warna, dan komponen seperti tombol dan label sesuai dengan desain saya.
  Setelah desain UI selesai, ekspor elemen UI yang kita butuhkan dalam format gambar.Lalu,
@@ -73,7 +75,6 @@ Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya 
 
 <img width="367" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/04161e18-96fe-45e9-bca9-1fe2c5cea004">
 
-# Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
 
 
 
