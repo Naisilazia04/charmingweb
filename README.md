@@ -22,6 +22,7 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 • Menakjubkan
 • Warna : Ungu purple
 # inspirasi desain
+
 ![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/1af6d539-efc8-47dc-aada-1d206abcdb84)
 
 # Analysis : User Story
@@ -68,15 +69,14 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
  Saat gambar wallpaper diunggah, Lakukan pengujian menyeluruh untuk memastikan bahwa aplikasi berfungsi dengan baik. Jangan lupa untuk menguji kemampuan untuk mengunggah, menampilkan, dan mengatur wallpaper sesuai dengan kebutuhan.
 
 # Design: User Experience (UX) Design
-Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
+
 <img width="367" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/04161e18-96fe-45e9-bca9-1fe2c5cea004">
 
+Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
 
 Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape, Penpot, lalu yang gratis hingga berbayar seperti Figma.
 
 Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
-
-<img width="367" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/04161e18-96fe-45e9-bca9-1fe2c5cea004">
 
 
 
