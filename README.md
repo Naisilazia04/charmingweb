@@ -1,4 +1,4 @@
-# Membuat aplikasi web wallpaper dengan figma,netbeans,java swing,mySQL
+su sudahhahhh# Membuat aplikasi web wallpaper dengan figma,netbeans,java swing,mySQL
 Naisila zia ulhaq 24 oktober 2023
 
 # Latar belakang
@@ -46,16 +46,18 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 |pengguna|dapat melihat daftar wallpaper yang paling populer saat ini|saya bisa tahu tren terkini|⭐⭐⭐⭐⭐|
 
 # Analysis: Structure data
-• Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
-• Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan atribut
 
 <img width="761" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/3f0a89aa-1896-4c5e-9b15-86b2f118f075">
 
+• Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
+• Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan atribut
+
 
 # Design: Arsitektur berbasis client-server
-pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
 ![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/14ed94df-6384-47a6-b45a-833805f5bd12)
+
+pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
 
 # Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini
