@@ -53,6 +53,7 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 # Design: Arsitektur berbasis client-server
 pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
+
 ![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/14ed94df-6384-47a6-b45a-833805f5bd12)
 
 
