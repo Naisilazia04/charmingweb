@@ -74,20 +74,9 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 • pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
-flowchart BT 
 
+# Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini.
 
-    B[Web Server: JavaScript - Express.js]
-    <-->
-    C[Aplikasi Web Backend: JavaScript - Express.js] 
-    C <--> 
-    D[Database: PostgreSQL] 
-    
-    end
-    A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B
-
-
-# Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini
 Dalam pembuatan aplikasi wallpaper, menggunakan Figma, NetBeans Java Swing, dan database MySQL, 
  Pertama, saya  merancang tampilan antarmuka pengguna (UI) aplikasi saya dengan Figma. dan desain untuk halaman unggah wallpaper, halaman utama. setelah itu menentukan tata letak, warna, dan komponen seperti tombol dan label sesuai dengan desain saya.
  Setelah desain UI selesai, ekspor elemen UI yang kita butuhkan dalam format gambar.Lalu,
