@@ -63,6 +63,8 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 
 # Analysis: Structure data
 
+
+
    
 
 <img width="761" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/3f0a89aa-1896-4c5e-9b15-86b2f118f075">
@@ -75,6 +77,13 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 
 
 # Design: Arsitektur berbasis client-server
+'''mermaid
+lowchart BT 
+  subgraph cloud
+    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    C <--> D[Database: mySQL] 
+  end
+  A[Aplikasi android web : JavaScript] <--> B'''
 
 ![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/14ed94df-6384-47a6-b45a-833805f5bd12)
 
