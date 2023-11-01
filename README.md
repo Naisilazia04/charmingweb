@@ -69,9 +69,9 @@ erDiagram
         string Idpengguna
     }
     WALLPAPER {
-        string kategorikoleksi
-        string gambarwallpaper
-        int idwallpaper
+        string kategori koleksi
+        string gambar wallpaper
+        int id wallpaper
          }
 
 ```        
