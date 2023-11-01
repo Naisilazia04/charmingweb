@@ -63,6 +63,11 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 
 # Analysis: Structure data
 
+erDiagram
+    pengguna ||--o{ NAMED-DRIVER : allows
+    pengguna {
+        string id_pengguna
+
 
 <img width="761" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/3f0a89aa-1896-4c5e-9b15-86b2f118f075">
 
