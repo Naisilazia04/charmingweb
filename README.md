@@ -63,6 +63,17 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 
 # Analysis: Structure data
 
+erDiagram
+    PENGGUNA ||--|{ WALLPAPER :contains
+    PENGGUNA {
+        string Idpengguna
+    }
+    WALLPAPER {
+        string kategorikoleksi
+        string gaqmbarwallpaper
+        int idwallpaper
+         }
+
 
 <img width="761" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/3f0a89aa-1896-4c5e-9b15-86b2f118f075">
 
