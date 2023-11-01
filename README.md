@@ -110,6 +110,9 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 
 # Design: User Experience (UX) Design
 
+<img width="522" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/4323486b-1280-4df3-a1a4-66bc55e65801">
+
+
 
 
 • pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
