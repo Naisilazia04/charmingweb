@@ -62,6 +62,19 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 |pengguna|dapat melihat daftar wallpaper yang paling populer saat ini|saya bisa tahu tren terkini|⭐⭐⭐⭐⭐|
 
 # Analysis: Structure data
+'''mermaid
+erDiagram
+    PENGGUNA ||--|{ WALLPAPER :contains
+    PENGGUNA {
+        string Idpengguna
+    }
+    WALLPAPER {
+        string kategorikoleksi
+        string gaqmbarwallpaper
+        int idwallpaper
+         }
+
+'''         
 
 
 
