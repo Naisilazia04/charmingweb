@@ -78,12 +78,6 @@ erDiagram
 
 
 
-   
-
-<img width="761" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/3f0a89aa-1896-4c5e-9b15-86b2f118f075">
-
-
-
 • Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
 
 • Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan atribut
@@ -99,8 +93,6 @@ flowchart BT
   end
   A[Aplikasi web : JavaScript] <--> B
 ```
-
-![image](https://github.com/Naisilazia04/charmingweb/assets/144526940/14ed94df-6384-47a6-b45a-833805f5bd12)
 
 • pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
