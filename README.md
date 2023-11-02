@@ -70,7 +70,7 @@ erDiagram
     }
     WALLPAPER {
         string kategorikoleksi
-        string gambar/wallpaper
+        string gambarwallpaper
         int idwallpaper
          }
 
