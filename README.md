@@ -64,7 +64,7 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang di buat . Branding 
 # Analysis: Structure data
 ```mermaid
 erDiagram
-    PENGGUNA ||--o{ WALLPAPER : contains
+    PENGGUNA ||--o{ WALLPAPER : mencari
     PENGGUNA {
         string Idpengguna
     }
