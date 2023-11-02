@@ -1,4 +1,4 @@
-# Membuat aplikasi web wallpaper dengan figma,netbeans,java swing,mySQL
+# Membuat aplikasi web wallpaper dengan,netbeans,java swing,mySQL
 Naisila zia ulhaq 24 oktober 2023
 
 # Latar belakang
