@@ -110,8 +110,7 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 
 # Design: User Experience (UX) Design
 
-<img width="522" alt="image" src="https://github.com/Naisilazia04/charmingweb/assets/144526940/4323486b-1280-4df3-a1a4-66bc55e65801">
-
+![ux](https://github.com/Naisilazia04/charmingweb/assets/144526940/d341d408-649c-472b-b11b-1c72e83220be)
 
 
 
