@@ -124,7 +124,11 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 
 # Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu
 
+https://drive.google.com/file/d/1Vdx0VT2za6dctB9i1M-w58fMSbtloXsB/view?usp=sharing
+
 # Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu
+
+https://drive.google.com/file/d/1f79oY-LvFfuPXK13roIh9WmMtH-Z92Tm/view?usp=sharing
 
 # Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
 
