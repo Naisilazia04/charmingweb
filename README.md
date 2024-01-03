@@ -132,6 +132,8 @@ https://drive.google.com/file/d/1f79oY-LvFfuPXK13roIh9WmMtH-Z92Tm/view?usp=shari
 
 # Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
 
+https://drive.google.com/file/d/1WVNnDzDMcxqEl7e-mBLQQBhQqPjOWUG2/view?usp=sharing
+
 # Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
 
 
