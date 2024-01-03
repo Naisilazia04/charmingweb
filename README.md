@@ -130,6 +130,8 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 
 # Demonstrasikan produk teknologi informasi yang kamu buat dalam video
 
+Mohon maaf bapak vidio nya menyusul
+
  
 
 
