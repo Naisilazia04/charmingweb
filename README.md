@@ -120,15 +120,19 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 
 • Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
 
-# Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
-
-# Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
-
-# Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu
+# Demonstrasikan produk teknologi informasi yang kamu buat dalam video
 
 # Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu
 
-# Demonstrasikan produk teknologi informasi yang kamu buat dalam video
+# Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu
+
+# Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
+
+# Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
+
+
+
+
 
 Mohon maaf bapak vidio nya menyusul
 
