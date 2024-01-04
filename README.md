@@ -138,6 +138,8 @@ https://drive.google.com/file/d/1WVNnDzDMcxqEl7e-mBLQQBhQqPjOWUG2/view?usp=shari
 
 # Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
 
+https://drive.google.com/file/d/1i8otqTyI9iRuXYz0ABN_YttxUtbrsTQz/view?usp=sharing
+
 
 
 
