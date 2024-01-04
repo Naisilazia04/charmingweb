@@ -122,6 +122,8 @@ Buat proyek baru di NetBeans dengan jenis Java Swing.karena akan menjadi kerangk
 
 # Demonstrasikan produk teknologi informasi yang kamu buat dalam video
 
+https://drive.google.com/file/d/1rA5uYN1MeUrInQ4ADzN2hFmT-uC7HLPt/view?usp=sharing
+
 # Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu
 
 https://drive.google.com/file/d/1Vdx0VT2za6dctB9i1M-w58fMSbtloXsB/view?usp=sharing
